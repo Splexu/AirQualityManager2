@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/poland_map.png</file>
+    </qresource>
+</RCC>

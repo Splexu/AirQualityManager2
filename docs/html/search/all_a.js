@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['main_0',['main',['../d6/d83/CMakeCXXCompilerId_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;CMakeCXXCompilerId.cpp'],['../df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
+  ['main_2ecpp_1',['main.cpp',['../df/d0a/main_8cpp.html',1,'']]],
+  ['mainwindow_2',['MainWindow',['../d6/d1a/classMainWindow.html',1,'MainWindow'],['../d6/d1a/classMainWindow.html#a996c5a2b6f77944776856f08ec30858d',1,'MainWindow::MainWindow()']]],
+  ['mainwindow_2ecpp_3',['mainwindow.cpp',['../d8/dd9/mainwindow_8cpp.html',1,'']]],
+  ['mainwindow_2eh_4',['mainwindow.h',['../d9/d53/mainwindow_8h.html',1,'']]],
+  ['mapimage_5',['mapImage',['../d4/db1/classMapWidget.html#a8eef97995d7258f688ed58599def29de',1,'MapWidget']]],
+  ['maploaded_6',['mapLoaded',['../d4/db1/classMapWidget.html#a69e1f32162a7e5e98dceb873ce605a29',1,'MapWidget']]],
+  ['mapwidget_7',['MapWidget',['../d4/db1/classMapWidget.html',1,'MapWidget'],['../d4/db1/classMapWidget.html#ac65e5b94134ac01bdc59cd8de380893e',1,'MapWidget::MapWidget()']]],
+  ['mapwidget_2ecpp_8',['MapWidget.cpp',['../da/d92/MapWidget_8cpp.html',1,'']]],
+  ['mapwidget_2eh_9',['MapWidget.h',['../d9/d2c/MapWidget_8h.html',1,'']]],
+  ['markers_10',['markers',['../d4/db1/classMapWidget.html#a220344795ff351c615b7d5bcf3b0eefc',1,'MapWidget']]],
+  ['measurement_11',['Measurement',['../d1/ded/structMeasurement.html',1,'']]],
+  ['measurementlistwidget_12',['measurementListWidget',['../d6/d1a/classMainWindow.html#ad4d3897d0757067351f80146b0030e81',1,'MainWindow']]],
+  ['measurements_13',['measurements',['../d6/d1a/classMainWindow.html#a67a4c4e16a700e4a0beda46fdf1f3e28',1,'MainWindow']]],
+  ['measurementsfetched_14',['measurementsFetched',['../d5/d8e/classAirQualityManager.html#a300fdd5ce4aec919f6c1be26ae917480',1,'AirQualityManager']]],
+  ['mingw_5fhas_5fsecure_5fapi_15',['MINGW_HAS_SECURE_API',['../d1/dc6/AirQualityMonitor__autogen_2moc__predefs_8h.html#a7652218632d79c675cce0c49732ee345',1,'MINGW_HAS_SECURE_API:&#160;moc_predefs.h'],['../d2/d8e/AirQualityMonitorTests__autogen_2moc__predefs_8h.html#a7652218632d79c675cce0c49732ee345',1,'MINGW_HAS_SECURE_API:&#160;moc_predefs.h'],['../df/d8d/qualiti__autogen_2moc__predefs_8h.html#a7652218632d79c675cce0c49732ee345',1,'MINGW_HAS_SECURE_API:&#160;moc_predefs.h']]],
+  ['moc_5fairqualitymanager_2ecpp_16',['moc_airqualitymanager.cpp',['../db/d82/AirQualityMonitor__autogen_2EWIEGA46WW_2moc__airqualitymanager_8cpp.html',1,'(Global Namespace)'],['../d7/d55/AirQualityMonitorTests__autogen_2EWIEGA46WW_2moc__airqualitymanager_8cpp.html',1,'(Global Namespace)'],['../d5/d49/qualiti__autogen_2EWIEGA46WW_2moc__airqualitymanager_8cpp.html',1,'(Global Namespace)']]],
+  ['moc_5fmainwindow_2ecpp_17',['moc_mainwindow.cpp',['../d9/d3c/AirQualityMonitor__autogen_2EWIEGA46WW_2moc__mainwindow_8cpp.html',1,'(Global Namespace)'],['../d9/d14/AirQualityMonitorTests__autogen_2EWIEGA46WW_2moc__mainwindow_8cpp.html',1,'(Global Namespace)'],['../d7/db0/qualiti__autogen_2EWIEGA46WW_2moc__mainwindow_8cpp.html',1,'(Global Namespace)']]],
+  ['moc_5fmapwidget_2ecpp_18',['moc_MapWidget.cpp',['../dc/dfa/AirQualityMonitor__autogen_2EWIEGA46WW_2moc__MapWidget_8cpp.html',1,'(Global Namespace)'],['../d2/dd6/AirQualityMonitorTests__autogen_2EWIEGA46WW_2moc__MapWidget_8cpp.html',1,'(Global Namespace)']]],
+  ['moc_5fpredefs_2eh_19',['moc_predefs.h',['../d1/dc6/AirQualityMonitor__autogen_2moc__predefs_8h.html',1,'(Global Namespace)'],['../d2/d8e/AirQualityMonitorTests__autogen_2moc__predefs_8h.html',1,'(Global Namespace)'],['../df/d8d/qualiti__autogen_2moc__predefs_8h.html',1,'(Global Namespace)']]],
+  ['mocs_5fcompilation_2ecpp_20',['mocs_compilation.cpp',['../d8/dcf/AirQualityMonitor__autogen_2mocs__compilation_8cpp.html',1,'(Global Namespace)'],['../dd/db9/AirQualityMonitorTests__autogen_2mocs__compilation_8cpp.html',1,'(Global Namespace)'],['../d9/ddb/qualiti__autogen_2mocs__compilation_8cpp.html',1,'(Global Namespace)']]],
+  ['mousepressevent_21',['mousePressEvent',['../d4/db1/classMapWidget.html#aa48e5f8c7c771113afef4c63d8c0f6c4',1,'MapWidget']]]
+];

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['savedatabutton_0',['saveDataButton',['../d6/d1a/classMainWindow.html#a98e59fb73c4879a3aedf27f716b535f7',1,'MainWindow']]],
+  ['savemeasurementstojson_1',['saveMeasurementsToJson',['../d6/d1a/classMainWindow.html#aeae7fcd46c352faf7b49b4cfd4f8a201',1,'MainWindow']]],
+  ['savesensorstojson_2',['saveSensorsToJson',['../d6/d1a/classMainWindow.html#a2360b9f40f0a66e24f3a9008c0ceb756',1,'MainWindow']]],
+  ['savestationstojson_3',['saveStationsToJson',['../d6/d1a/classMainWindow.html#acdb321f8e893bef776310fd1f4b2365d',1,'MainWindow']]],
+  ['searchlineedit_4',['searchLineEdit',['../d6/d1a/classMainWindow.html#aaef91190dce87c592aadd9b5929ac887',1,'MainWindow']]],
+  ['sensor_5',['Sensor',['../de/d5a/structSensor.html',1,'']]],
+  ['sensorlistwidget_6',['sensorListWidget',['../d6/d1a/classMainWindow.html#a151655728a04d95aad44bc481dc465e1',1,'MainWindow']]],
+  ['sensors_7',['sensors',['../d6/d1a/classMainWindow.html#a59cf269fe7cae3a79d499458325f3d1f',1,'MainWindow']]],
+  ['sensorsfetched_8',['sensorsFetched',['../d5/d8e/classAirQualityManager.html#aec10da86fc59b850d990b5fb7b13a8e2',1,'AirQualityManager']]],
+  ['series_9',['series',['../d6/d1a/classMainWindow.html#a1adf439e0b7d0a88840274a9fffe18de',1,'MainWindow']]],
+  ['showmapbutton_10',['showMapButton',['../d6/d1a/classMainWindow.html#ace041dfc37cdc8db77047ea53134b181',1,'MainWindow']]],
+  ['showstationinfo_11',['showStationInfo',['../d4/db1/classMapWidget.html#ae2759834e94606f98feb1b2867486996',1,'MapWidget']]],
+  ['sizeof_5fdptr_12',['SIZEOF_DPTR',['../d1/dc6/AirQualityMonitor__autogen_2moc__predefs_8h.html#addad5b57ed33bc5c79361574d9e03c06',1,'SIZEOF_DPTR:&#160;moc_predefs.h'],['../d2/d8e/AirQualityMonitorTests__autogen_2moc__predefs_8h.html#addad5b57ed33bc5c79361574d9e03c06',1,'SIZEOF_DPTR:&#160;moc_predefs.h'],['../df/d8d/qualiti__autogen_2moc__predefs_8h.html#addad5b57ed33bc5c79361574d9e03c06',1,'SIZEOF_DPTR:&#160;moc_predefs.h']]],
+  ['station_13',['Station',['../d4/d80/structStation.html',1,'']]],
+  ['station_14',['station',['../d2/df4/structMapWidget_1_1StationMarker.html#a3e1ffa9cfd0f4b6a8abbac434224ee88',1,'MapWidget::StationMarker']]],
+  ['stationid_15',['stationId',['../de/d5a/structSensor.html#aca0077c550e028e9dfd7f3cd8c9911e5',1,'Sensor::stationId'],['../d1/ded/structMeasurement.html#aefb9cf70bfe113f443dc8dab21766d28',1,'Measurement::stationId']]],
+  ['stationlistwidget_16',['stationListWidget',['../d6/d1a/classMainWindow.html#a9aa84e4d776c83f16398838febd8e230',1,'MainWindow']]],
+  ['stationmarker_17',['StationMarker',['../d2/df4/structMapWidget_1_1StationMarker.html',1,'MapWidget']]],
+  ['stations_18',['stations',['../d6/d1a/classMainWindow.html#aa8c940a9277347f2d5705a45a46c0c74',1,'MainWindow']]],
+  ['stationselected_19',['stationSelected',['../d4/db1/classMapWidget.html#aa937b4cfa59c06db8e7a6322f8091928',1,'MapWidget']]],
+  ['stationsfetched_20',['stationsFetched',['../d5/d8e/classAirQualityManager.html#a54f63ee5401ccb07fa2154a188600230',1,'AirQualityManager']]],
+  ['stringify_21',['STRINGIFY',['../d6/d83/CMakeCXXCompilerId_8cpp.html#a43e1cad902b6477bec893cb6430bd6c8',1,'CMakeCXXCompilerId.cpp']]],
+  ['stringify_5fhelper_22',['STRINGIFY_HELPER',['../d6/d83/CMakeCXXCompilerId_8cpp.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'CMakeCXXCompilerId.cpp']]]
+];
