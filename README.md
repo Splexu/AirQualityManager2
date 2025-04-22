@@ -36,7 +36,8 @@ Pliki
 - MainWindow.cpp/h - Logika programu i GUI
 - AirQualityManager.cpp/h - Zarządzanie danymi z API
 - tests.cpp - Testy jednostkowe
-- indez.html - dokumentacja (folder html)
+- MapWidget.cpp/h - Wyswietlanie mapy 
+- index.html - dokumentacja (folder html)
 -------------
 Autor
 -------------
